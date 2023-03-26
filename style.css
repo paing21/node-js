@@ -1,0 +1,35 @@
+.body {
+  margin: 0;
+  padding: 0;
+  background-color: #808080;
+}
+.container {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.input {
+  width: 95%;
+  margin: auto;
+}
+.main {
+  flex-basis: 35%;
+  background-color: #ccccff;
+  height: 250px;
+  border-radius: 10px;
+}
+.register {
+  margin-top: 10px;
+}
+#app {
+  /* width: 20%; */
+  flex-basis: 30%;
+  background-color: #ccccff;
+  border-radius: 10px;
+}
+.containerTwo {
+  align-items: center;
+  margin: 10px 30px;
+  display: flex;
+  justify-content: space-between;
+}
